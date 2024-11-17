@@ -1,4 +1,4 @@
-![Exp-8-Output](https://github.com/user-attachments/assets/a14838e6-2079-4b20-bd70-3d0ec80af4fb)# Implementation of Decision Tree Model for Tumor Classification
+# Implementation of Decision Tree Model for Tumor Classification
 
 ## AIM:
 To implement and evaluate a Decision Tree model to classify tumors as benign or malignant using a dataset of lab test results.
